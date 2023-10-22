@@ -1,0 +1,12 @@
+.mini-cont {
+    height: 40px;
+    width: 60px;
+    margin-right: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  }
